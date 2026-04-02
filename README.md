@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FinFlow — Finance Dashboard
 
 Premium personal finance dashboard built with **Next.js 14 (App Router)** + **JavaScript**.
@@ -42,3 +43,6 @@ Or push to GitHub → import at vercel.com/new (auto-detects Next.js).
 - [x] Responsive — collapsible sidebar on mobile
 - [x] Staggered entrance animations on all pages
 - [x] Empty state UI for no results
+=======
+# finance-dashboard
+>>>>>>> cb7fe7fa4c3d0794b36cd25cc27af5a093a08fa2
